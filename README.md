@@ -1,6 +1,6 @@
 # tiny-memo
 
-[![PyPI](https://img.shields.io/badge/PyPI-tiny--memo-blue)](https://pypi.org/project/tiny-memo/)
+[![PyPI](https://img.shields.io/badge/PyPI-tiny--memo-blue)](https://github.com/hussain-alsaibai/tiny-memo#install)
 [![Python](https://img.shields.io/badge/Python-3.8%2B-blue)](#)
 [![Dependencies](https://img.shields.io/badge/dependencies-zero-brightgreen)](#)
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
