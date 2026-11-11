@@ -55,8 +55,12 @@ choose between features.
 
 ## Installation
 
+The name `tiny-memo` on PyPI belongs to an unrelated package, so
+`pip install tiny-memo` would fetch somebody else's code. Install this one
+from the repository instead:
+
 ```bash
-pip install tiny-memo
+pip install git+https://github.com/hussain-alsaibai/tiny-memo.git
 ```
 
 Or just copy `tiny_memo.py` into your project — it's one file with no dependencies.
